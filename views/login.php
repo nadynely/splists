@@ -9,5 +9,7 @@ $_SESSION['page'] = 'login';
 
 <!--Contenu de index.php, board.php,login, singnup-->
 
+<h1>Page de connexion</h1>
+
 
 <?php include('../partials/_footer.php'); ?>
