@@ -10,7 +10,7 @@ $_SESSION['page'] = 'index';
 
 <!--Contenu de index.php, board.php,login, singnup-->
 
-<h1>Page de connexion</h1>
+<h2>Page d'accueil</h2>
 
 
 <?php include('partials/_footer.php'); ?>
